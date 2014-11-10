@@ -1,0 +1,16 @@
+<publishData>
+  <publishTarget publishUrl="http://172.16.1.67/WSPortal1/">
+    <file relUrl="bin/WSPregrado.xml" publishTime="22/10/2014 17:19:02" />
+    <file relUrl="bin/WSPregrado.pdb" publishTime="22/10/2014 17:19:02" />
+    <file relUrl="bin/AD_GestionAcademica.pdb" publishTime="20/10/2014 17:31:32" />
+    <file relUrl="bin/WSPregrado.dll" publishTime="22/10/2014 17:19:02" />
+    <file relUrl="bin/AD_GestionAcademica.dll" publishTime="20/10/2014 17:31:32" />
+    <file relUrl="bin/Newtonsoft.Json.xml" publishTime="07/09/2014 10:39:26" />
+    <file relUrl="Web.config" publishTime="20/10/2014 17:54:30" />
+    <file relUrl="bin/Newtonsoft.Json.pdb" publishTime="07/09/2014 10:39:26" />
+    <file relUrl="bin/Oracle.DataAccess.dll" publishTime="20/12/2007 0:53:34" />
+    <file relUrl="WebService.asmx" publishTime="20/10/2014 17:58:47" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="07/09/2014 10:39:26" />
+    <file relUrl="bin/AD_GestionAcademica.xml" publishTime="20/10/2014 17:31:32" />
+  </publishTarget>
+</publishData>
